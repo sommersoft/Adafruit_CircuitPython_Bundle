@@ -1,4 +1,6 @@
-# ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/22_1023blinka.png) Adafruit CircuitPython Libraries
+# Adafruit CircuitPython Libraries
+![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/22_1023blinka.png)
+
 Listing of current Adafruit CircuitPython Libraries.
 
 ## Drivers:
